@@ -33,4 +33,5 @@ https://www.typescriptlang.org/
 <code>
   Cannot redeclare block-scoped variable 'x'.
 </code>
+
 ##### Just don't open the JS file on the editor, because this error means the variable x is already declared in the JS file.
