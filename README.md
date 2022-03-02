@@ -19,6 +19,11 @@ https://www.typescriptlang.org/
   tsc index
 </code>
 
+### Compile on change (watch file)
+<code>
+  tsc index --watch
+</code>
+
 ### Open Folder in cmd
 <code>
   cd folder
