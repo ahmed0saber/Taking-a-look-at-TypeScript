@@ -1,1 +1,3 @@
-# Taking-a-look-at-TypeScript
+### Taking-a-look-at-TypeScript
+
+I don't think I'm going to replace JavaScript with TypeScript generally, but I just wanted to know what TypeScript is, Why developers use it, How to use it, and finally when to use it...
